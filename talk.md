@@ -58,7 +58,7 @@ class: center, middle, inverse
 
 .left-column60[
 - Typically 10-30 new requests per day
-- Each email opens a "ticket"
+- A new email opens a "ticket"
 - Each new ticket gets a new .emph[number]
 - Reply to email/ticket is filed under the same number
 - .emph[Tickets have owners] but owners can change
