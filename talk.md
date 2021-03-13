@@ -20,7 +20,7 @@ background-image: url(img/title.png)
   "How to Get Help and Ask for Software" (Bjørn-Helge Mevik)
 - Richard Darst and [CodeRefinery team](https://coderefinery.org/) for discussions and ideas
 - https://documentation.sigma2.no/getting_help/support_line.html
-- https://scicomp.aalto.fi/triton/help/
+- https://scicomp.aalto.fi/help/
 - I have spent some time on both sides (research and support)
 
 .cite[Images from https://deathgenerator.com/ by [@Foone](https://deathgenerator.com/)]
