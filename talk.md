@@ -99,6 +99,12 @@ class: center, middle, inverse
 
 ---
 
+# Formulate your question
+
+[expand from https://scicomp.aalto.fi/help/]
+
+---
+
 # Tell us what you have tried
 
 - Has it stopped working? Has it ever worked?
