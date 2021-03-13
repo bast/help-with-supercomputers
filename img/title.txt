@@ -1,0 +1,14 @@
+https://deathgenerator.com/#bsod
+
+        [inverse] Asking for help with supercomputers [/]
+
+Radovan Bast, radovan.bast@uit.no, @__radovan
+These slides: https://bit.ly/help-with-supercomputers
+
+*  How to write support requests so that you get quick
+   and useful answers.
+*  How to create reproducible examples.
+*  The value of growing calculations
+   and simplifying problems.
+
+           Press any key to continue
