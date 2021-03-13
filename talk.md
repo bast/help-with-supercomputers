@@ -201,7 +201,7 @@ class: center, middle, inverse
 # Summary and recommendations
 
 - When facing a problem, spend few minutes on it before writing the email
-- But also don't hesitate too long to ask
+- But also don't hesitate too long before asking
 - You can install most software yourself - we are happy to show you how
 - Remember XY problem
 - Grow calculations
