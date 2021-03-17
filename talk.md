@@ -14,6 +14,16 @@ background-image: url(img/title.png)
 
 ---
 
+# About this guide
+
+We can solve almost anything for you, but if you don't follow these steps then
+.emph[your experience] will be much worse.
+
+We as staff should also create guides for staff and provide training for staff
+in how to support users. .emph[A lot of improvement is needed].
+
+---
+
 # Credit
 
 - This talk has borrowed some points from
@@ -42,6 +52,7 @@ class: center, middle, inverse
 - Person asking for help has perhaps 20 years less experience
 - It is not easy to ask for help
 - We always need to .emph[be respectful]
+- The person on the other side has perhaps spent weeks on this problem and waited for days/weeks for your answer
 
 
 ## Good to know:
@@ -101,7 +112,15 @@ class: center, middle, inverse
 
 # Formulate your question
 
-[expand from https://scicomp.aalto.fi/help/]
+- .emph[Has it ever worked?] (If so, what has changed?)
+
+- .emph[What are you trying to accomplish?] Your ultimate goal, not current technical obstacle.
+
+- .emph[What did you do?] Be specific enough to be reproducible - copy and paste exact commands you run, exact output messages, scripts, inputs, etc.
+
+- .emph[What do you need?] Do you need a complete solution, pointers to get started, or should we say if it will take too long and we recommend you think of other solutions first?
+
+.cite[taken from https://scicomp.aalto.fi/help/]
 
 ---
 
@@ -123,8 +142,8 @@ class: center, middle, inverse
 
 After http://xyproblem.info/:
 - User wants to do X
-- User doesn't know how to do X, and thinks that Y is a way to solve X
-- User doesn't know how to do Y either
+- User thinks that Y is a way to solve X
+- User doesn't know how to do Y
 - .emph[User asks for help with Y]
 - After much interaction it becomes clear that the user really wants help with X,
   and that Y wasn't even a suitable solution for X
@@ -132,11 +151,20 @@ After http://xyproblem.info/:
 
 ---
 
+# "Reverse XY problem"
+
+- Staff answers what users ask for but do not think deeper about what the user
+  really needs
+
+.cite[thanks to Richard Darst for pointing this out]
+
+---
+
 class: center, middle, inverse
 
 # First time on a new machine?
 
-## Please do not start immediately with a 256-core 40-hour calculation.
+## Please do not start immediately with a 16-node and 40-hour calculation
 
 ---
 
@@ -193,14 +221,6 @@ class: center, middle, inverse
 - Run the small example
 - If it suddenly stopped working or runs slower, you know it's probably the machine
 - Now you can send us the example so that we fix the machine
-
----
-
-# Requesting software
-
-[here I will write something ...]
-
-[also talk about sudo ...]
 
 ---
 
