@@ -49,10 +49,10 @@ class: center, middle, inverse
 
 ## Good to remember for support staff:
 
-- Person asking for help has perhaps 20 years less experience
 - It is not easy to ask for help
-- We always need to .emph[be respectful]
+- Person asking for help has perhaps 20 years less experience
 - The person on the other side has perhaps spent weeks on this problem and waited for days/weeks for your answer
+- We always need to .emph[be respectful]
 
 
 ## Good to know:
