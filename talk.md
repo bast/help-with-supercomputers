@@ -4,13 +4,10 @@ background-image: url(img/title.png)
 
 # Motivation
 
-## This talk is about <support@metacenter.no> and how to use it well
-
-(or replace this email since the points are hopefully valid also for other computing centers)
-
+## This talk is about writing support requests so that you get quick and useful answers
 
 ### Hopefully this is a useful guide
-### Hopefully it does not come across as "do this, don't do this"
+### Hopefully it does not come across as "do this, don't do that"
 
 ---
 
@@ -73,7 +70,7 @@ class: center, middle, inverse
 - Each new ticket gets a new .emph[number]
 - Reply to email/ticket is filed under the same number
 - .emph[Tickets have owners] but owners can change
-- The first thing we see is the .emph[email subject]
+- The first thing we see is the .emph[email subject] (or issue thread title)
 ]
 .right-column40[
 <img src="img/rtfm.png" alt="comic of somebody calling to get help" style="height: 350px;"/>
@@ -88,15 +85,15 @@ class: center, middle, inverse
 
 - "Problem" is not a useful subject
 - "Why is my job crashing?" is better
-- .emph[New problem? New ticket/email]
-- Same problem? Reply to email and keep ticket number
+- .emph[New problem? New ticket/issue/thread/email]
+- Same problem? Reply to email/thread and keep ticket number
 
 
 ## Give us context
 
 - Username (we can find it out but takes few minutes)
 - Explicit paths (`/cluster/home/myself/somepath`)
-  better than implicit paths (`~/somepath`)
+  better than implicit paths ("you can find it in my home folder", `~/somepath`)
 - Which machine?
 - Tell us about your environment
 - Sometimes text better than screenshot
@@ -143,10 +140,12 @@ class: center, middle, inverse
 After http://xyproblem.info/:
 - User wants to do X
 - User thinks that Y is a way to solve X
-- User doesn't know how to do Y
+- User tries Y and hits a problem
 - .emph[User asks for help with Y]
 - After much interaction it becomes clear that the user really wants help with X,
   and that Y wasn't even a suitable solution for X
+
+### Ask early when you only know X and haven't tried Y yet
 ]
 
 ---
