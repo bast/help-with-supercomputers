@@ -2,6 +2,28 @@ background-image: url(img/title.png)
 
 ---
 
+## About me
+
+.left-column60[
+- [CodeRefinery](https://coderefinery.org/)
+- Worked in research (theoretical chemistry) in France and Sweden
+
+- Worked in HPC and support in Sweden and Norway
+
+- [Research software engineering](https://nordic-rse.org/)
+
+- Teaching programming
+
+- Helping researchers with computing and programming
+
+- Part of the Sigma2/Metacenter team (Norway)
+]
+.right-column40[
+<img src="img/avatar.jpeg" style="width: 60%;"/>
+]
+
+---
+
 # Motivation
 
 ## This talk is about writing support requests so that you get quick and useful answers
