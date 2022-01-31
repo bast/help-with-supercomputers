@@ -116,6 +116,24 @@ class: center, middle, inverse
 
 ---
 
+# I remember the answer to my first ever technical email request
+
+I wrote a very long email motivating why I would benefit so much from getting access to code X
+
+
+### Answer:
+
+```
+hi,
+
+I guess what you meant asking in-between all the paragraphs was:
+"can I please get the code X?"
+
+Yes! Here it is :-)
+```
+
+---
+
 # Ticketing system/ issue tracker
 
 .left-column60[
