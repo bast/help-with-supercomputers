@@ -243,8 +243,8 @@ After http://xyproblem.info/:
 
 # "Reverse XY problem"
 
-- Staff answers what users ask for but do not think deeper about what the user
-  really needs
+- Staff answers what users ask for but doesn't go deeper.
+- Reason: issues can get closed faster, which appears good.
 
 .cite[thanks to Richard Darst for pointing this out]
 
