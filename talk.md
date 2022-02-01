@@ -283,7 +283,7 @@ thank you in advance for help/advice on how to solve this,
 hi,
 
 I am not sure I wrote to the right support line but what I am looking
-for is a virtual machine where we can install a PHP web service with a MySQL database
+for is a virtual machine where we can install a PHP web server with a MySQL database
 behind it.
 
 What we have in mind is to set up a service where we can share the data from
