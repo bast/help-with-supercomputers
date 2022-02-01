@@ -167,6 +167,8 @@ Yes! Here it is :-)
 - Explicit paths (`/cluster/home/myself/somepath`)
   better than implicit paths ("you can find it in my home folder", `~/somepath`)
 - Which machine?
+- Which software?
+- Which research field?
 - Tell us about your environment (anything special in your `.bashrc`?)
 - Sometimes text better than screenshot
 - Sometimes attachment better than screenshot
