@@ -156,28 +156,41 @@ Yes! Here it is :-)
 # Subject
 
 - "Problem" is not a useful subject
+
 - "Why is my job crashing?" is better
-- .emph[New problem? New ticket/issue/thread/email]
+
+- Include keywords like software used or research field
+
+- .emph[New problem? New ticket/issue/thread/email]: don't package to different questions into same request/email
+
 - Same problem? Reply to email/thread and keep ticket number
-
-
-## Give us context
-
-- Username (we can find it out but takes few minutes of "boring" work)
-- Explicit paths (`/cluster/home/myself/somepath`)
-  better than implicit paths ("you can find it in my home folder", `~/somepath`)
-- Which machine?
-- Which software?
-- Which research field?
-- Tell us about your environment (anything special in your `.bashrc`?)
-- Sometimes text better than screenshot
-- Sometimes attachment better than screenshot
 ]
 .right-column30[
 <img src="img/zelda.png" alt="image saying: I AM ERROR" style="height: 200px;"/>
 
 .cite[https://deathgenerator.com/#zelda2]
 ]
+
+---
+
+# Provide context
+
+- Username (we can find it out but takes few minutes of "boring" work)
+
+- Explicit paths (`/cluster/home/myself/somepath`)
+  better than implicit paths ("you can find it in my home folder", `~/somepath`)
+
+- Which machine?
+
+- Which software?
+
+- Which research field?
+
+- Tell us about your environment (anything special in your `.bashrc`?)
+
+- Sometimes text better than screenshot
+
+- Sometimes attachment better than screenshot
 
 ---
 
