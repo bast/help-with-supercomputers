@@ -126,7 +126,7 @@ I wrote a very long email motivating why I would benefit so much from getting ac
 ```
 hi,
 
-I guess what you meant asking in-between all the paragraphs was:
+I guess what you meant asking in-between all those paragraphs was:
 "can I please get the code X?"
 
 Yes! Here it is :-)
@@ -378,6 +378,6 @@ class: center, middle, inverse
 
 - Many people really enjoy helping
 
-- Don't hesitate to write when something *is* working well
+- It is also OK to write when something *is* working well
 
 ### These slides: https://bit.ly/help-with-supercomputers
