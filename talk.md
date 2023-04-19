@@ -2,11 +2,7 @@ class: center, middle
 
 # When and how to ask for help with (super)computers
 
-## Radovan Bast [@\_\_radovan](https://twitter.com/__radovan)
-
 ## Slides: https://bit.ly/help-with-supercomputers
-
-UiT The Arctic University of Norway
 
 ---
 
