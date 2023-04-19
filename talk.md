@@ -206,7 +206,7 @@ Yes! Here it is :-)
 
 # When to ask for help
 
-- Do not hesitate to ask for help and in doubt ask.
+- Do not hesitate to ask for help and ask if in doubt.
 
 - But the helper will appreciate if you spend more than 2 minutes on the problem before asking.
 
