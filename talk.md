@@ -29,28 +29,6 @@ class: center, middle
 
 ---
 
-# About me
-
-.left-column60[
-- [CodeRefinery](https://coderefinery.org/)
-- Worked in research (theoretical chemistry) in France and Sweden
-
-- Worked in HPC and support in Sweden and Norway
-
-- [Research software engineering](https://nordic-rse.org/)
-
-- Teaching programming
-
-- Helping researchers with computing and programming
-
-- Part of the [Sigma2/NRIS](https://documentation.sigma2.no/) team (Norway)
-]
-.right-column40[
-<img src="img/avatar.jpeg" style="width: 60%;"/>
-]
-
----
-
 # Credit
 
 - This talk has borrowed some points from
