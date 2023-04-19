@@ -130,26 +130,11 @@ Yes! Here it is :-)
 
 ---
 
-# Ticketing system/ issue tracker
-
-.left-column60[
-- Typically 10-30 new requests per day
-- A new email opens a "ticket"
-- Each new ticket gets a new .emph[number]
-- Reply to email/ticket is filed under the same number
-- .emph[Tickets/issues have owners] but owners can change
-- The first thing we see is the .emph[email subject] (or issue thread title)
-]
-.right-column40[
-<img src="img/rtfm.png" alt="comic of somebody calling to get help" style="height: 350px;"/>
-
-.cite[https://xkcd.com/293/, CC-BY-NC]
-]
-
----
+# Subject
 
 .left-column70[
-# Subject
+
+- The first thing we see is the .emph[email subject] (or issue thread title)
 
 - "Problem" is not a useful subject
 
@@ -162,9 +147,9 @@ Yes! Here it is :-)
 - Same problem? Reply to email/thread and keep ticket number
 ]
 .right-column30[
-<img src="img/zelda.png" alt="image saying: I AM ERROR" style="height: 200px;"/>
+<img src="img/rtfm.png" alt="comic of somebody calling to get help" style="height: 350px;"/>
 
-.cite[https://deathgenerator.com/#zelda2]
+.cite[https://xkcd.com/293/, CC-BY-NC]
 ]
 
 ---
