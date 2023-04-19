@@ -229,9 +229,13 @@ Yes! Here it is :-)
 # Tell us what you have tried
 
 - Has it stopped working? Has it ever worked?
+
 - Does it always fail this way? Or only sometimes?
+
 - .emph[Have you tried to isolate/simplify the problem?] How? (more about this later)
+
 - Please check documentation and web
+
 - But sometimes web is "wrong" so don't hesitate to ask
 
 ---
