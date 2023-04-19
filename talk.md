@@ -9,13 +9,9 @@ class: center, middle
 # Outline/topics
 
 - What kinds of help are available for different levels of work
-
 - When to ask for help
-
 - How to write support requests so that you get quick and useful answers
-
 - How to create reproducible examples
-
 - The value of growing calculations and simplifying problems
 
 --
@@ -118,12 +114,6 @@ Yes! Here it is :-)
 - "Problem" is not a useful subject
 
 - "Why is my job crashing?" is better
-
-- Include keywords like software used or research field
-
-- .emph[New problem? New ticket/issue/thread/email]: don't package to different questions into same request/email
-
-- Same problem? Reply to email/thread and keep ticket number
 ]
 .right-column30[
 <img src="img/rtfm.png" alt="comic of somebody calling to get help" style="height: 350px;"/>
@@ -136,22 +126,14 @@ Yes! Here it is :-)
 # Provide context
 
 - Username (we can find it out but takes few minutes of "boring" work)
-
 - Explicit paths (`/cluster/home/myself/somepath`)
   better than implicit paths ("you can find it in my home folder", `~/somepath`)
-
 - Which machine?
-
 - Which software?
-
 - Which research field?
-
 - Tell us about your environment (anything special in your `.bashrc`?)
-
 - Sometimes text better than screenshot
-
 - Sometimes attachment better than screenshot
-
 - Tell us if we are allowed to look at your files (makes it faster to check
   certain issues)
 
