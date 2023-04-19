@@ -51,6 +51,12 @@ class: center, middle
 - Forum
 - Stack Exchange
 
+---
+
+# Give yourself a time limit
+
+.quote["I will work on this problem for one hour, then go to garage and ask for help".]
+
 
 ## Different levels of help
 
