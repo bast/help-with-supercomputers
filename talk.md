@@ -45,9 +45,10 @@ class: center, middle
 # Where to ask
 
 - Colleagues
-- "Garage"/ Q&A session
+- "Garage"/ Q&A session/ office hours
 - Search engine
-- Chat
+- Chat (human and AI)
+- Documentation
 - Issue tracker (email opens a ticket): problem with a computer or a program you didn't write
 - Research software engineers: problem with a code you wrote or want to change
 - Mailing list
