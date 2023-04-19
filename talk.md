@@ -188,6 +188,9 @@ Yes! Here it is :-)
 
 - Sometimes attachment better than screenshot
 
+- Tell us if we are allowed to look at your files (makes it faster to check
+  certain issues)
+
 ---
 
 # Formulate your question
