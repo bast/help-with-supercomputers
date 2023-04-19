@@ -237,9 +237,8 @@ Yes! Here it is :-)
 <img src="img/want.jpg" alt="tell me what you want what you really really want" style="height: 200px;"/>
 ]
 .right-column60[
-# The XY problem
+# The [XY problem](http://xyproblem.info/)
 
-After http://xyproblem.info/:
 - User wants to do X
 - User thinks that Y is a way to solve X
 - User tries Y and hits a problem
@@ -248,16 +247,13 @@ After http://xyproblem.info/:
   and that Y wasn't even a suitable solution for X
 
 ### Ask early when you only know X and haven't tried Y yet
-]
 
----
-
-# "Reverse XY problem"
-
+"Reverse XY problem":
 - Staff answers what users ask for but doesn't go deeper.
 - Reason: issues can get closed faster, which appears good.
 
 .cite[thanks to Richard Darst for pointing this out]
+]
 
 ---
 
