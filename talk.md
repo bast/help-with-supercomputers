@@ -1,4 +1,4 @@
-class: center, middle
+class: center, middle, gray-background
 
 # When and how to ask for help with (super)computers
 
@@ -8,20 +8,17 @@ class: center, middle
 
 # Outline/topics
 
-- What kinds of help are available for different levels of work
+- What help is available for different levels of work
+
 - When to ask for help
+
 - How to write support requests so that you get quick and useful answers
+
 - How to create reproducible examples
+
 - The value of growing calculations and simplifying problems
 
---
-
-## Goals
-
-- The goal is to .emph[improve our experience] when solving issues.
-
-- We as staff should also create guides for staff and provide training for staff
-  in how to support users. .emph[A lot of improvement is needed].
+## The goal is to .emph[improve your experience] when solving issues
 
 ---
 
@@ -29,12 +26,15 @@ class: center, middle
 
 - This talk has borrowed some points from
   "How to Get Help and Ask for Software" (B.-H. Mevik)
-- R. Darst, E. Glerean, J. Suvilehto, and [CodeRefinery community](https://coderefinery.zulipchat.com/) for discussions and ideas
-- https://documentation.sigma2.no/getting_help/support_line.html
-- https://scicomp.aalto.fi/help/
-- I have spent some time on both sides (research and support)
 
-.cite[Images from https://deathgenerator.com/ by [@Foone](https://deathgenerator.com/)]
+- R. Darst, E. Glerean, J. Suvilehto, R. Santos, and the
+  [CodeRefinery community](https://coderefinery.zulipchat.com/) for discussions and ideas
+
+- https://documentation.sigma2.no/getting_help/support_line.html
+
+- https://scicomp.aalto.fi/help/
+
+- I have spent some time on both sides (research and support)
 
 ---
 
@@ -53,6 +53,14 @@ class: center, middle
 
 ---
 
+# When to ask for help
+
+- Do not hesitate to ask for help and ask if in doubt.
+
+- But the helper will appreciate if you spend more than 2 minutes on the problem before asking.
+
+---
+
 # Give yourself a time limit
 
 .quote["I will work on this problem for one hour, then go to garage and ask for help".]
@@ -61,6 +69,7 @@ class: center, middle
 ## Different levels of help
 
 - Asking for advice
+
 - Asking to get something done for you: installation, scaling, programming
 
 ---
@@ -86,10 +95,9 @@ class: center, middle, inverse
 ## Good to know for those asking:
 
 - Staff may be on rotating support duty every few weeks
-- They don't know "everything"
+- Staff does not know "everything"
 - They may not be spending all their work time on the supercomputer either
-- They may not know you
-- They may not have context
+- They may not know you and may not have context
 
 ---
 
@@ -129,19 +137,27 @@ Yes! Here it is :-)
 
 ---
 
+.left-column20[
 # Provide context
+]
 
-- Username (we can find it out but takes few minutes of "boring" work)
+.right-column80[
+- Username (we can find it out but takes time)
+
 - Explicit paths (`/cluster/home/myself/somepath`)
-  better than implicit paths ("you can find it in my home folder", `~/somepath`)
+  better than implicit paths ("it is in my home folder", `~/somepath`)
+
 - Which machine?
+
 - Which software?
+
 - Which research field?
+
 - Tell us about your environment (anything special in your `.bashrc`?)
-- Sometimes text better than screenshot
-- Sometimes attachment better than screenshot
+
 - Tell us if we are allowed to look at your files (makes it faster to check
   certain issues)
+]
 
 ---
 
@@ -159,25 +175,6 @@ Yes! Here it is :-)
 
 ---
 
-# When to ask for help
-
-- Do not hesitate to ask for help and ask if in doubt.
-
-- But the helper will appreciate if you spend more than 2 minutes on the problem before asking.
-
-
-## Those helping:
-
-- Don't forget that the person asking may not know yet how to look for solutions before asking. Help them by showing how.
-
-- Instead of sending a URL to a documentation/solution or checklist, start with
-  empathy, work together through checklist, show them what you have tried and
-  what you have found.
-
-- Asking checklist questions can make users feel that they are annoying the help desk person.
-
----
-
 # Tell us what you have tried
 
 - Has it stopped working? Has it ever worked?
@@ -186,18 +183,19 @@ Yes! Here it is :-)
 
 - .emph[Have you tried to isolate/simplify the problem?] How? (more about this later)
 
-- Please check documentation and web
+- Please check documentation and web.
 
-- But sometimes web is "wrong" so don't hesitate to ask
+- But sometimes web is "wrong" so don't hesitate to ask.
 
 ---
 
 .left-column40[
-<img src="img/want.jpg" alt="tell me what you want what you really really want" style="height: 200px;"/>
-]
-.right-column60[
 # The [XY problem](http://xyproblem.info/)
 
+<img src="img/want.jpg" alt="tell me what you want what you really really want" style="height: 200px;"/>
+]
+
+.right-column60[
 - User wants to do X
 - User thinks that Y is a way to solve X
 - User tries Y and hits a problem
@@ -211,8 +209,37 @@ Yes! Here it is :-)
 - Staff answers what users ask for but doesn't go deeper.
 - Reason: issues can get closed faster, which appears good.
 
-.cite[thanks to Richard Darst for pointing this out]
+.cite[thanks to R. Darst for pointing this out]
 ]
+
+---
+
+# Important advice for staff
+
+- Asking checklist questions can make users feel that they are annoying the help desk person.
+
+- Don't forget that the person asking may not know yet how to look for solutions before asking. **Help them by showing how**.
+
+- Instead of sending a URL to a documentation/solution or checklist, **start with
+  empathy**, work together through checklist, show them what you have tried and
+  what you have found.
+
+---
+
+# What happens with a request?
+
+- On our side a new request opens a "ticket"
+
+- Tickets are numbered and we label them
+
+- We then try to find the person in the organization who can best help
+
+- Some tickets change hands (it might take time to understand the actual
+  problem and some issues can take days or weeks to resolve)
+
+- Better formulated request avoids lengthy back-and-forth
+
+- Once we resolve the problem, we close the ticket
 
 ---
 
@@ -284,7 +311,11 @@ class: center, middle, inverse
 
 - Then increase the system size and make your calculation longer
 
-### Discuss the advantages of this approach
+--
+
+- .quote["But a realistic system is big and takes long!"]
+
+- Start then with a synthetic example
 
 ---
 
@@ -320,9 +351,11 @@ class: center, middle, inverse
 
 - Shorter example is easier to debug and does not queue "forever"
 
---
+- Staff helping does not have prioritized queuing: we also have to wait
 
-### Next time you are unsure whether it's the machine or "you"?
+---
+
+# Next time you are unsure whether it's the machine or "you"?
 
 - Run the small example
 
@@ -332,15 +365,33 @@ class: center, middle, inverse
 
 ---
 
+# Summary: reproducible example
+
+- Something that runs in minutes
+
+- Synthetic data is OK (it does not have to be
+  chemically/biologically/physically meaningful)
+
+- A directory with script and all input files
+
+- All dependencies loaded in the run script
+
+- Add a README that describes how you run it and how you check whether it worked
+  (example: "open file abc.out, there should be 'SUCCESS' at the end of file")
+
+- .emph[Ask a colleague to run that example. Are they able to copy it and run it?]
+
+---
+
 # You are not alone
 
 - Approach .emph[research software engineers] near you
 
-- Pop into a "garage" or Q & A help session and say hi
+- Pop into a "garage" or Q&A help session and say "hi!"
 
 - You are probably not alone experiencing this problem
 
-- Your question is not stupid
+- Your question is not too simple or stupid
 
 - Many people really enjoy helping
 
