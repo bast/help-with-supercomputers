@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8392763.svg)](https://doi.org/10.5281/zenodo.8392763)
+
 ## Presentation slides: "How to ask for help with (super)computers"
 
 Slides: https://cicero.xyz/v3/remark/0.14.0/github.com/bast/help-with-supercomputers/main/talk.md/

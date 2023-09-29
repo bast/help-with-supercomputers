@@ -2,7 +2,7 @@ class: center, middle, gray-background
 
 # How to ask for help with (super)computers
 
-## Slides: https://bit.ly/help-with-supercomputers
+## Slides: https://doi.org/10.5281/zenodo.8392763
 
 ---
 
@@ -397,4 +397,4 @@ class: center, middle, inverse
 
 - It is also OK to write when something *is* working well
 
-### These slides: https://bit.ly/help-with-supercomputers
+### These slides: https://doi.org/10.5281/zenodo.8392763
