@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8392763.svg)](https://doi.org/10.5281/zenodo.8392763)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8392762.svg)](https://doi.org/10.5281/zenodo.8392762)
 
 ## Presentation slides: "How to ask for help with (super)computers"
 
