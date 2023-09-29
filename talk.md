@@ -1,6 +1,6 @@
 class: center, middle, gray-background
 
-# When and how to ask for help with (super)computers
+# How to ask for help with (super)computers
 
 ## Slides: https://bit.ly/help-with-supercomputers
 
